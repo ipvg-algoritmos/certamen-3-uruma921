@@ -18,4 +18,4 @@ for t in temperaturas:
 #Si alguna temperatura esta fuera de rango 10°c a 35°c
 for t in temperaturas:
     if t <10 or t >35:
-    print ("advertencia la temperaturas {it:2f)°C esta fuera del rango permitido(10°c a 35°c).")
+    print("advertencia la temperaturas {it:2f)°C esta fuera del rango permitido(10°c a 35°c).")
